@@ -1,0 +1,5 @@
+d:\我的文档\visual studio 2013\Projects\MQService\OrderEntry\bin\Debug\OrderEntry.dll
+d:\我的文档\visual studio 2013\Projects\MQService\OrderEntry\bin\Debug\OrderEntry.pdb
+d:\我的文档\visual studio 2013\Projects\MQService\OrderEntry\obj\Debug\MQModel.csprojResolveAssemblyReference.cache
+d:\我的文档\visual studio 2013\Projects\MQService\OrderEntry\obj\Debug\OrderEntry.dll
+d:\我的文档\visual studio 2013\Projects\MQService\OrderEntry\obj\Debug\OrderEntry.pdb

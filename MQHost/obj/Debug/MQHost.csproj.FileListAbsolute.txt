@@ -1,0 +1,9 @@
+d:\我的文档\visual studio 2013\Projects\MQService\MQHost\bin\Debug\MQHost.exe.config
+d:\我的文档\visual studio 2013\Projects\MQService\MQHost\bin\Debug\MQHost.exe
+d:\我的文档\visual studio 2013\Projects\MQService\MQHost\bin\Debug\MQHost.pdb
+d:\我的文档\visual studio 2013\Projects\MQService\MQHost\bin\Debug\MQService.dll
+d:\我的文档\visual studio 2013\Projects\MQService\MQHost\bin\Debug\OrderEntry.dll
+d:\我的文档\visual studio 2013\Projects\MQService\MQHost\bin\Debug\MQService.pdb
+d:\我的文档\visual studio 2013\Projects\MQService\MQHost\bin\Debug\OrderEntry.pdb
+d:\我的文档\visual studio 2013\Projects\MQService\MQHost\obj\Debug\MQHost.exe
+d:\我的文档\visual studio 2013\Projects\MQService\MQHost\obj\Debug\MQHost.pdb

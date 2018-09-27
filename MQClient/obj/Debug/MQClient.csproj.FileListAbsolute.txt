@@ -1,0 +1,10 @@
+d:\我的文档\visual studio 2013\Projects\MQService\MQClient\bin\Debug\MQClient.exe.config
+d:\我的文档\visual studio 2013\Projects\MQService\MQClient\bin\Debug\MQClient.exe
+d:\我的文档\visual studio 2013\Projects\MQService\MQClient\bin\Debug\MQClient.pdb
+d:\我的文档\visual studio 2013\Projects\MQService\MQClient\bin\Debug\MQService.dll
+d:\我的文档\visual studio 2013\Projects\MQService\MQClient\bin\Debug\OrderEntry.dll
+d:\我的文档\visual studio 2013\Projects\MQService\MQClient\bin\Debug\MQService.pdb
+d:\我的文档\visual studio 2013\Projects\MQService\MQClient\bin\Debug\OrderEntry.pdb
+d:\我的文档\visual studio 2013\Projects\MQService\MQClient\obj\Debug\MQClient.csprojResolveAssemblyReference.cache
+d:\我的文档\visual studio 2013\Projects\MQService\MQClient\obj\Debug\MQClient.exe
+d:\我的文档\visual studio 2013\Projects\MQService\MQClient\obj\Debug\MQClient.pdb
